@@ -1,7 +1,10 @@
 # html_6
 Created with CodeSandbox
 
+![1](https://user-images.githubusercontent.com/37132897/157629342-9c04164a-f274-4599-b423-a08ef405ed4e.PNG)
 
+
+table 관련
 - border-collapse의 collapse : 겹치는 선은 하나로 통일해라
 제목에 해당하는 부분은 보통 th(중앙정렬이 되있음)를 준다. 
 - table 은 구도를 잡는 용도로 사용하지 않는다. UI만들때 사용 안함
